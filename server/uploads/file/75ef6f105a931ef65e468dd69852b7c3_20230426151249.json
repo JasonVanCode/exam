@@ -1,0 +1,1722 @@
+[
+    {
+        "VarName": "main_设备运行中",
+        "Value": 1
+    },
+    {
+        "VarName": "main_停机中",
+        "Value": 0
+    },
+    {
+        "VarName": "main_浓缩器预处理",
+        "Value": 0
+    },
+    {
+        "VarName": "main_浓缩器新鲜风模式",
+        "Value": 0
+    },
+    {
+        "VarName": "main_浓缩器废气处理模式",
+        "Value": 1
+    },
+    {
+        "VarName": "main_浓缩器吸附",
+        "Value": 0
+    },
+    {
+        "VarName": "main_焚烧炉吹扫",
+        "Value": 0
+    },
+    {
+        "VarName": "main_焚烧炉加热",
+        "Value": 0
+    },
+    {
+        "VarName": "main_焚烧炉待机",
+        "Value": 1
+    },
+    {
+        "VarName": "main_焚烧炉废气模式",
+        "Value": 1
+    },
+    {
+        "VarName": "main_焚烧炉自燃模式",
+        "Value": 0
+    },
+    {
+        "VarName": "main_焚烧炉快速冷却",
+        "Value": 0
+    },
+    {
+        "VarName": "main_废气阀组",
+        "Value": 1
+    },
+    {
+        "VarName": "main_浓缩器",
+        "Value": 1
+    },
+    {
+        "VarName": "main_焚烧炉",
+        "Value": 1
+    },
+    {
+        "VarName": "main_清洁气热交换",
+        "Value": 1
+    },
+    {
+        "VarName": "main_气源",
+        "Value": 1
+    },
+    {
+        "VarName": "main_控制室",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_EP_6108喷房",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K107_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6108_喷漆房工作",
+        "Value": 0
+    },
+    {
+        "VarName": "EP_6108_喷漆房停止",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_EP_6109喷房",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K117_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6109_喷漆房工作",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6109_喷漆房停止",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363_EP_611烘房",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K127_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_EP_6110喷房",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K137_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6110_喷漆房工作",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6110_喷漆房停止",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363_EP_6111喷房",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K147_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "EP_6111_喷漆房工作",
+        "Value": 0
+    },
+    {
+        "VarName": "EP_6111_喷漆房停止",
+        "Value": 1
+    },
+    {
+        "VarName": "K117_除尘器状态",
+        "Value": 1
+    },
+    {
+        "VarName": "K117_除尘器开",
+        "Value": 0
+    },
+    {
+        "VarName": "K117_除尘器关",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363_K117",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363_K107",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_EP_6121",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K157_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_k157P02",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_EP_6120",
+        "Value": 1
+    },
+    {
+        "VarName": "KA363_K167_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463EA2_2实验室喷漆",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_实验室喷漆间开",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_实验室喷漆间关",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_P12状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_PIP12实际值",
+        "Value": 5.8125
+    },
+    {
+        "VarName": "KA463_K107状态",
+        "Value": 2
+    },
+    {
+        "VarName": "KA463_K107开度反馈",
+        "Value": 37.454067
+    },
+    {
+        "VarName": "KA463_K117状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_EF_2_3喷漆间",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_喷漆间开",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_喷漆间关",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_PI_P22状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_PI_P22实际值",
+        "Value": 6.5550003
+    },
+    {
+        "VarName": "KA463_K127状态",
+        "Value": 2
+    },
+    {
+        "VarName": "KA463_K127开度反馈",
+        "Value": 32.82407
+    },
+    {
+        "VarName": "KA463_K137状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_EP_8001",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_K147_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_PSAP02",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_EF_8002",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_K157_1_2",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_除尘器状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KA463_除尘器开",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463_除尘器关",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463KA1363K137",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463KA1363K127",
+        "Value": 1
+    },
+    {
+        "VarName": "KA163_新鲜风V17",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163_废气V07",
+        "Value": 1
+    },
+    {
+        "VarName": "KA163_TISAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163TISAT05实际值",
+        "Value": 22.524998
+    },
+    {
+        "VarName": "VP111_M01状态",
+        "Value": 1
+    },
+    {
+        "VarName": "VP111_M01实际值",
+        "Value": 33.834
+    },
+    {
+        "VarName": "VP111XIRZAX10状态",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111XIRZAX10实值",
+        "Value": 1.2425
+    },
+    {
+        "VarName": "VP111_PISAP02状态",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_PISAP02实值",
+        "Value": -6.215624
+    },
+    {
+        "VarName": "BR105_PDSAP12",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105_PDSAP22",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105_PDZAP02",
+        "Value": 1
+    },
+    {
+        "VarName": "BR105_M01状态",
+        "Value": 1
+    },
+    {
+        "VarName": "BR105_M01实际值",
+        "Value": 42
+    },
+    {
+        "VarName": "BR105_SZAS08",
+        "Value": 1
+    },
+    {
+        "VarName": "BR105_TISAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105TISAT05实际值",
+        "Value": 23.5225
+    },
+    {
+        "VarName": "BR105_TISAT25状态",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105TISAT25实际值",
+        "Value": 149.65375
+    },
+    {
+        "VarName": "KA263_TISAT15状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263TISAT15实际值",
+        "Value": 54.235
+    },
+    {
+        "VarName": "KA263_V07状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KA263_K150状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263_V17状态",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153_M06状态",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153_M06开度反馈",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153_V07状态",
+        "Value": 1
+    },
+    {
+        "VarName": "WG153_V17状态",
+        "Value": 1
+    },
+    {
+        "VarName": "WG153_X200",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153_自然模式",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153_火焰",
+        "Value": 1
+    },
+    {
+        "VarName": "WG153_ASV57",
+        "Value": 1
+    },
+    {
+        "VarName": "BK126_TISAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126TISAT05实际值",
+        "Value": 867.0163
+    },
+    {
+        "VarName": "BK126_TISAT15状态",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126TISAT15实际值",
+        "Value": 876.7
+    },
+    {
+        "VarName": "BK126_TISAT25状态",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126TISAT25实际值",
+        "Value": 862.2125
+    },
+    {
+        "VarName": "BK125_温度",
+        "Value": 867.0163
+    },
+    {
+        "VarName": "VL118_PISAP02状态",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118PISAP02实际值",
+        "Value": -12.049999
+    },
+    {
+        "VarName": "VL118_Q04状态",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_Q04实际值",
+        "Value": 1.9026824
+    },
+    {
+        "VarName": "VL118_M01状态",
+        "Value": 1
+    },
+    {
+        "VarName": "VL118_M01实际值",
+        "Value": 25.168
+    },
+    {
+        "VarName": "AP191_V07状态",
+        "Value": 1
+    },
+    {
+        "VarName": "AP191_PDZAP02状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KL131_PZAP12状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KL131_V07状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131_V47状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KL131_V27状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231_V07状态",
+        "Value": 1
+    },
+    {
+        "VarName": "KL231_V47状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231_V27状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331_V07状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331_V47状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331_V27状态",
+        "Value": 1
+    },
+    {
+        "VarName": "AT192TIRSAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "AT192TIRSAT05实值",
+        "Value": 91.588745
+    },
+    {
+        "VarName": "KR103_V07状态",
+        "Value": 2
+    },
+    {
+        "VarName": "KR103_V07开度反馈",
+        "Value": 10.3875
+    },
+    {
+        "VarName": "KR103TIRSAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103TIRSAT05实值",
+        "Value": 182.62375
+    },
+    {
+        "VarName": "WT330TIRSAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330TIRSAT05实值",
+        "Value": 199.26625
+    },
+    {
+        "VarName": "WT330_V07状态",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330_V07实际值",
+        "Value": 0.275
+    },
+    {
+        "VarName": "WT330_V35状态",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330_V35实际值",
+        "Value": 178.23999
+    },
+    {
+        "VarName": "KA190_TISAT05状态",
+        "Value": 0
+    },
+    {
+        "VarName": "KA190_TISAT05实值",
+        "Value": 30.16375
+    },
+    {
+        "VarName": "MG151_PZAP02状态",
+        "Value": 0
+    },
+    {
+        "VarName": "MG151_PZAP12状态",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141_M01状态",
+        "Value": 1
+    },
+    {
+        "VarName": "VV141_M01实际值",
+        "Value": 44
+    },
+    {
+        "VarName": "VV141_PZAP02状态",
+        "Value": 1
+    },
+    {
+        "VarName": "VV141_V07状态",
+        "Value": 1
+    },
+    {
+        "VarName": "MD107_PSAP02状态",
+        "Value": 0
+    },
+    {
+        "VarName": "控制室急停",
+        "Value": 0
+    },
+    {
+        "VarName": "生产急停",
+        "Value": 0
+    },
+    {
+        "VarName": "急停",
+        "Value": 0
+    },
+    {
+        "VarName": "燃烧器急停",
+        "Value": 0
+    },
+    {
+        "VarName": "安全PLC故障",
+        "Value": 0
+    },
+    {
+        "VarName": "安全PLC急停",
+        "Value": 0
+    },
+    {
+        "VarName": "电源24V跳电",
+        "Value": 0
+    },
+    {
+        "VarName": "电源230V跳电",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T65安全温度高故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T051525低温度",
+        "Value": 0
+    },
+    {
+        "VarName": "备用122",
+        "Value": 0
+    },
+    {
+        "VarName": "备用123",
+        "Value": 0
+    },
+    {
+        "VarName": "备用124",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T65温度低于750",
+        "Value": 0
+    },
+    {
+        "VarName": "备用126",
+        "Value": 0
+    },
+    {
+        "VarName": "MG151P12然气压力高故障",
+        "Value": 0
+    },
+    {
+        "VarName": "MG151P02然气压力低故障",
+        "Value": 0
+    },
+    {
+        "VarName": "燃烧室温度过高不能手动",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126_T65故障",
+        "Value": 0
+    },
+    {
+        "VarName": "备用504",
+        "Value": 0
+    },
+    {
+        "VarName": "备用505",
+        "Value": 0
+    },
+    {
+        "VarName": "备用506",
+        "Value": 0
+    },
+    {
+        "VarName": "备用507",
+        "Value": 0
+    },
+    {
+        "VarName": "备用508",
+        "Value": 0
+    },
+    {
+        "VarName": "备用509",
+        "Value": 0
+    },
+    {
+        "VarName": "备用510",
+        "Value": 0
+    },
+    {
+        "VarName": "备用511",
+        "Value": 0
+    },
+    {
+        "VarName": "备用530",
+        "Value": 0
+    },
+    {
+        "VarName": "备用531",
+        "Value": 0
+    },
+    {
+        "VarName": "备用532",
+        "Value": 0
+    },
+    {
+        "VarName": "备用533",
+        "Value": 0
+    },
+    {
+        "VarName": "备用534",
+        "Value": 0
+    },
+    {
+        "VarName": "备用535",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141_P02压力测试故障",
+        "Value": 0
+    },
+    {
+        "VarName": "备用582",
+        "Value": 0
+    },
+    {
+        "VarName": "备用583",
+        "Value": 0
+    },
+    {
+        "VarName": "备用584",
+        "Value": 0
+    },
+    {
+        "VarName": "备用586",
+        "Value": 0
+    },
+    {
+        "VarName": "备用588",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC系统故障",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC外围故障",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC断电故障",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC程序错误",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC循环周期监视",
+        "Value": 0
+    },
+    {
+        "VarName": "PLC电池报警",
+        "Value": 0
+    },
+    {
+        "VarName": "MD107_P02压缩空气低",
+        "Value": 0
+    },
+    {
+        "VarName": "控制柜温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "控制柜冷却加温装置报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_P02压力值故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_P02压力过大故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_P02压力最小故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_P02压力最大报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111_P02压力最小报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_P02压力值故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_P02压力过高故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_P02压力过低故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_P02压力过高报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_P02压力过低报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01脱附风机开关",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01脱附速度故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_M01脱附电机跳闸",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118_M01脱附电机高温",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01脱附变频器故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01脱附速度报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01电机高温报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01电机速度报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118M01风机变频器报警",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103V07RTO旁通关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103V07RTO旁通开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103V07RTO旁通开关",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103V07RTO旁通位置",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330V07热交换阀位置",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103T05旁通出口温度",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103T05旁通出口高温",
+        "Value": 0
+    },
+    {
+        "VarName": "KR103T05旁通出口高报警",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T35清洁气温度",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T35清洁气高温故障",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T35清洁气高温报警",
+        "Value": 0
+    },
+    {
+        "VarName": "KA190T05烟囱温度故障",
+        "Value": 0
+    },
+    {
+        "VarName": "KA190T05烟囱高温故障",
+        "Value": 0
+    },
+    {
+        "VarName": "KA190T05烟囱高温报警",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V17新鲜风阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V17新鲜风阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V17新鲜风阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V07废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V07废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V07废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V17废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V17废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V17废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V27废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V27废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V27废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V37废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V37废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V37废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V47废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V47废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V47废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V57废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V57废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V57废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V67废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V67废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363V67废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V07废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V07废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V07废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V17废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V17废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V17废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V27废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V27废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V27废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V37废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V37废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V37废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V47废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V47废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V47废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V57废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V57废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463V57废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "RTO通路故障",
+        "Value": 0
+    },
+    {
+        "VarName": "KA363P02压缩空气小报警",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P02压缩空气低报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01驱动器维修开关",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01速度监测故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01电机开关跳闸",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01电机温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01变频器故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01速度监测报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01电机温度高报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01_速度监测报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105M01变频器报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105P02压差最小故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105P02压差测试故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T05清洁气体温度",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T05清洁气体超温",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T05清洁气体高温",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T15温度故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T15温度过高故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T15温度过高报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T25冷却气故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T25冷却气高温故障",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T25冷却气高温报警",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105T15温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V07浓缩气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V07浓缩气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V07浓缩气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V17新鲜风阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V17新鲜风阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263V17新鲜风阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KA263G58泄压阀没关到位",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机维修开关开启",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机速度监测故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机电机开关跳闸",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机电机温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机变频器故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111废气风机速度监测报警",
+        "Value": 0
+    },
+    {
+        "VarName": "AT192T05CTO出口温度",
+        "Value": 0
+    },
+    {
+        "VarName": "AT192T05CTO出口高温",
+        "Value": 0
+    },
+    {
+        "VarName": "AT192T05CTO出口超温",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330V07热交换阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330V07热交换阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330V07热交换阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V07进口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V07进口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V07进口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V27出口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V27出口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V27出口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V47吹扫阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V47吹扫阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL131V47吹扫阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V07进口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V07进口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V07进口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V27出口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V27出口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V27出口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V47吹扫阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V47吹扫阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL231V47吹扫阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V07进口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V07进口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V07进口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V27出口提升阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V27出口提升阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V27出口提升阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V47吹扫阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V47吹扫阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KL331V47吹扫阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T05燃烧室1温度",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T05燃烧室1高温",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T05燃烧室1超温",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T15燃烧室2温度",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T15燃烧室2高温",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T15燃烧室2超温",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T25燃烧室3温度",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T25燃烧室3高温",
+        "Value": 0
+    },
+    {
+        "VarName": "BK126T25燃烧室3超温",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机检修开关开启",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机速度监测故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机保护开关跳闸",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机电机温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机变频器故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机速度监测报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机温度报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机速度报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141助燃风机变频器报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141P02助燃风压力过低",
+        "Value": 0
+    },
+    {
+        "VarName": "VV141P02助燃风压力故障",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153M06助燃风阀关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153M06助燃风阀开启",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153M06助燃风阀限位",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200火焰传感器",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200吹扫检测",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200点火前火焰",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200停止有火焰",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200运行无火焰",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200点火时无火焰",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200安全链关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "WG153X200没有火焰超时",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163T05废气温度",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163T05废气高温",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163T05废气超温",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V07废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V07废气阀门开启",
+        "Value": 0
+    },
+    {
+        "VarName": "KA163V07废气阀门限位",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111冷却风扇维修开关开启",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111冷却风扇速度监测报警",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111冷却风扇保护开关跳闸",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111冷却风扇电机温度过高",
+        "Value": 0
+    },
+    {
+        "VarName": "AP191P02压差过小故障",
+        "Value": 0
+    },
+    {
+        "VarName": "AP191P02压差传感器报警",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气温度",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气高温",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气低温",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气超温",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气温度低",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105P12过滤器压力过高",
+        "Value": 0
+    },
+    {
+        "VarName": "BR105P22过滤器压力过高",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111X10震动监测故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111X10震动监测值过大",
+        "Value": 0
+    },
+    {
+        "VarName": "VP111X10震动值过大报警",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05吸附气温低",
+        "Value": 0
+    },
+    {
+        "VarName": "WT330T05安全温度高",
+        "Value": 0
+    },
+    {
+        "VarName": "AP191P02压力测试故障",
+        "Value": 0
+    },
+    {
+        "VarName": "AP191P02入口压力过大",
+        "Value": 0
+    },
+    {
+        "VarName": "UPS电池能量过低",
+        "Value": 0
+    },
+    {
+        "VarName": "UPS故障",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118Q04燃气在线监测",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118Q04燃气体监测过高",
+        "Value": 0
+    },
+    {
+        "VarName": "VL118Q04燃气体过高报警",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV07废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV07废气阀门打开",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV07废气阀门行程",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV17旁通阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV27废气阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV37旁通阀门关闭",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV17旁通阀门打开",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV27废气阀门打开",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV37旁通阀门打开",
+        "Value": 0
+    },
+    {
+        "VarName": "CEIFV17旁通阀门行程",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV27废气阀门行程",
+        "Value": 0
+    },
+    {
+        "VarName": "HDEV37旁通阀门行程",
+        "Value": 0
+    },
+    {
+        "VarName": "五号门紧急停止",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气压力",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气压力过高",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气压力过低",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气压高警告",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气压低警告",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P22进气压力",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P22进气压力过高",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P22进气压力过低",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P12进气高警告",
+        "Value": 0
+    },
+    {
+        "VarName": "KA463P22进气压低警告",
+        "Value": 0
+    },
+    {
+        "VarName": "main_中心启动",
+        "Value": 1
+    }
+]
