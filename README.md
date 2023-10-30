@@ -4,7 +4,7 @@
 
 > 考试系统是一个基于 [vue](https://vuejs.org) 和 [gin](https://gin-gonic.com) 开发的前后端分离的开发基础的平台。
 
-[在线预览](http://demo.gin-vue-admin.com): http://demo.gin-vue-admin.com
+[在线预览](http://47.99.143.189:8388/): http://47.99.143.189:8388/
 
 测试用户名：admin
 
@@ -29,7 +29,7 @@
 ```bash
 
 # 克隆项目
-git clone https://github.com/flipped-aurora/gin-vue-admin.git
+git clone https://github.com/JasonVanCode/exam.git
 
 # 导入数据库文件，在docs文件目录下面 exam.sql文件
 
